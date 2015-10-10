@@ -1,7 +1,7 @@
-## Asteroids
+# Asteroids
 A simple, yet fast-paced interpretation of the Asteroids Game
 
-# Controls
+## Controls
 Movement - Arrow Keys
 Shoot - Space
 Brake - B
